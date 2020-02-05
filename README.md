@@ -1,0 +1,1 @@
+Basic Jest with Babel scaffolding

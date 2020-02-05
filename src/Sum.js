@@ -1,0 +1,1 @@
+export default (a, b) => undefined
