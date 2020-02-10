@@ -1,4 +1,4 @@
-import sum from './Sum'
+import sum from '../src/Sum'
 
 describe('test', () => {
     it('should work as per boolean logic', () => {
